@@ -1,2 +1,2 @@
 # Demo
-Demo Repo for Mini7 - It1100
+Added another line to README.md
